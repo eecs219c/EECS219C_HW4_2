@@ -39,6 +39,8 @@ pandas = "^1.3.5"
 scikit-learn = "^1.0"
 pygame = "^2.1.0"
 kmodes = "^0.10.2"
+
+## MODIFY THE PATH TO YOUR SCENIC REPO
 scenic = { path = "../Scenic", develop = false }
 ray = "^1.10.0"
 progressbar2 = "^3.53.1"
